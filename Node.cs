@@ -6,7 +6,7 @@ namespace LCA_Csharp
 {
 	/* Class containing left and right child of current 
    node and key value*/
-	class Node
+	public class Node
 	{
 		public int data;
 		public Node left, right;

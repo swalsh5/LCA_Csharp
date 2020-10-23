@@ -5,7 +5,7 @@ using System.Text;
 namespace LCA_Csharp
 {
 	//class to implement binary tree
-	class BinaryTree
+	public class BinaryTree
 	{
 		//Root of the Binary Tree 
 		public Node root;

@@ -3,7 +3,7 @@ using System;
 //C# implementation to find lowest common ancestor of 
 // n1 and n2 using one traversal of binary tree
 namespace LCA_Csharp
-{ 
+{
 
 	public class LCA
 	{
